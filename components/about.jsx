@@ -15,7 +15,7 @@ export default function About() {
         </p>
         <div className="mt-6">
           <Button asChild>
-            <a href="/OmkarbokanResume.pdf" download>
+            <a href="/projects/Omkar bokan Resume.pdf" download>
               Download Resume
             </a>
           </Button>
