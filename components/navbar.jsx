@@ -47,7 +47,7 @@ export default function Navbar() {
             </a>
           ))}
           <Button asChild size="sm">
-            <a href="/resume.pdf" download>
+            <a href="/projects/Omkar bokan Resume.pdf" download>
               Resume
             </a>
           </Button>
